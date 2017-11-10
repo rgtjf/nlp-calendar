@@ -10,24 +10,34 @@ Update: 2017.11.11
 
 ## Table
 
-|   | acronym   | abstract due | full paper due | notification | conference time | conference address     | page                                                |
-|---|-----------|--------------|----------------|--------------|-----------------|------------------------|-----------------------------------------------------|
-| A | AAAI      |              | pass           |              |                 |                        |                                                     |
-| A | ICLR      |              | pass           |              |                 |                        |                                                     |
-| C | ECIR      |              | pass           |              |                 |                        |                                                     |
-| A | WWW       |              | pass           |              |                 |                        |                                                     |
-| C | PAKDD     |              | 2017.11.21     | 2018.01.28   | 2018.07.08      | Rio, Brazil            | http://prada-research.net/pakdd18/                  |
-| B | NAACL     |              | 2017.12.15     | 2018.02.13   | 2018.06.01      | New Orleans, Louisiana | http://naacl2018.org/call_for_paper.html            |
-| C | IJCNN     |              | 2018.01.15     | 2018.03.15   | 2018.06.03      | Melbourne, Australia   | http://www.ecomp.poli.br/~wcci2018/call-for-papers/ |
-| A | SIGIR     | 2018.01.22   | 2018.01.29     | TBD          | 2018.07.08      | Michigan, USA          | https://easychair.org/cfp/sigir2018                 |
-| A | IJCAI     | 2018.01.25   | 2018.01.31     | 2018.04.16   | 2018.07.13      | Stockholm, Sweden      | https://www.ijcai-18.org/cfp/                       |
-| A | ACL       |              | 2018.02.22     | 2018.04.20   | 2018.07.15      | Melbourne, Australia   | http://acl2018.org/call-for-papers                  |
-| B | COLING    |              | 2018.03.16     | 2018.05.17   | 2018.08.22      | New Mexico, USA        | http://coling2018.org/first-call-for-papers/        |
-| B | KR        | 2018.05.13   | TBD            | 2018.7.11    | 2018.10.30      | Tempe, Arizona         | http://reasoning.eas.asu.edu/kr2018/                |
-| B | EMNLP     |              | TBD            |              |                 |                        |                                                     |
-| B | CONLL     |              | TBD            |              |                 |                        |                                                     |
-| B | CIKM      |              | TBD            |              |                 |                        |                                                     |
-| B | ECML PKDD |              | TBD            |              |                 |                        |                                                     |
+| CCF | category | acronym   | abstract due | full paper due | notification | conference time | conference address     | page                                                |
+|-----|----------|-----------|--------------|----------------|--------------|-----------------|------------------------|-----------------------------------------------------|
+| A   | AI       | AAAI      |              | pass           |              |                 |                        |                                                     |
+| A   | AI       | ICLR      |              | pass           |              |                 |                        |                                                     |
+| C   | IR       | ECIR      |              | pass           |              |                 |                        |                                                     |
+| A   | IR       | WWW       |              | pass           |              |                 |                        |                                                     |
+| C   | KD       | PAKDD     |              | 2017.11.21     | 2018.01.28   | 2018.07.08      | Rio, Brazil            | http://prada-research.net/pakdd18/                  |
+| B   | NLP      | NAACL     |              | 2017.12.15     | 2018.02.13   | 2018.06.01      | New Orleans, Louisiana | http://naacl2018.org/call_for_paper.html            |
+| B   | KD       | ICDM      |              | 2018.01.15     | 2018.03.18   |                 |                        | http://www.data-mining-forum.de/important_dates.php |
+| C   | AI       | IJCNN     |              | 2018.01.15     | 2018.03.15   | 2018.06.03      | Melbourne, Australia   | http://www.ecomp.poli.br/~wcci2018/call-for-papers/ |
+| A   | IR       | SIGIR     | 2018.01.22   | 2018.01.29     | TBD          | 2018.07.08      | Michigan, USA          | https://easychair.org/cfp/sigir2018                 |
+| A   | AI       | IJCAI     | 2018.01.25   | 2018.01.31     | 2018.04.16   | 2018.07.13      | Stockholm, Sweden      | https://www.ijcai-18.org/cfp/                       |
+| A   | AI       | ICML      |              | 2018.02.09     |              |                 |                        | https://2017.icml.cc/Conferences/2018/CallForPapers |
+| A   | NLP      | ACL       |              | 2018.02.22     | 2018.04.20   | 2018.07.15      | Melbourne, Australia   | http://acl2018.org/call-for-papers                  |
+| B   | NLP      | COLING    |              | 2018.03.16     | 2018.05.17   | 2018.08.22      | New Mexico, USA        | http://coling2018.org/first-call-for-papers/        |
+| B   | KD       | KR        | 2018.05.13   | TBD            | 2018.7.11    | 2018.10.30      | Tempe, Arizona         | http://reasoning.eas.asu.edu/kr2018/                |
+| B   | NLP      | EMNLP     |              | TBD            |              |                 |                        | http://www.wikicfp.com/cfp/program?id=883           |
+| B   | NLP      | CONLL     |              | TBD            |              |                 |                        | http://www.conll.org/cfp-2017                       |
+| B   | IR       | CIKM      |              | TBD            |              |                 |                        | http://www.wikicfp.com/cfp/program?id=462&s=CIKM    |
+| B   | KD       | ECML PKDD |              | TBD            |              |                 |                        | http://www.ecmlpkdd2018.org/key-dates-deadlines/    |
+| B   | NLP      | EACL      |              | TBD            |              |                 |                        | http://www.wikicfp.com/cfp/program?id=785           |
+| C   | NLP      | IJCNLP    |              | odd year       |              |                 |                        |                                                     |
+| C   | AI       | ICONIP    |              | TBD            |              |                 |                        |                                                     |
+| C   | KD       | KSEM      |              | TBD            |              |                 |                        |                                                     |
+| C   | IR       | ECIR      |              | TBD            |              |                 |                        |                                                     |
+| A   | AI       | NIPS      |              | TBD            |              |                 |                        | https://nips.cc/Conferences/2018/Dates              |
+| A   | KD       | KDD       |              | TBD            |              |                 |                        | http://www.kdd.org/                                 |
+                                    |
 
 
 ## 详细如下: 
