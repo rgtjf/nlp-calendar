@@ -17,10 +17,10 @@ Update: 2017.11.11
 | C | ECIR      |              | pass           |              |                 |                        |                                                     |
 | A | WWW       |              | pass           |              |                 |                        |                                                     |
 | C | PAKDD     |              | 2017.11.21     | 2018.01.28   | 2018.07.08      | Rio, Brazil            | http://prada-research.net/pakdd18/                  |
+| B | NAACL     |              | 2017.12.15     | 2018.02.13   | 2018.06.01      | New Orleans, Louisiana | http://naacl2018.org/call_for_paper.html            |
 | C | IJCNN     |              | 2018.01.15     | 2018.03.15   | 2018.06.03      | Melbourne, Australia   | http://www.ecomp.poli.br/~wcci2018/call-for-papers/ |
 | A | SIGIR     | 2018.01.22   | 2018.01.29     | TBD          | 2018.07.08      | Michigan, USA          | https://easychair.org/cfp/sigir2018                 |
 | A | IJCAI     | 2018.01.25   | 2018.01.31     | 2018.04.16   | 2018.07.13      | Stockholm, Sweden      | https://www.ijcai-18.org/cfp/                       |
-| B | NAACL     |              | 2017.12.15     | 2018.02.13   | 2018.06.01      | New Orleans, Louisiana | http://naacl2018.org/call_for_paper.html            |
 | A | ACL       |              | 2018.02.22     | 2018.04.20   | 2018.07.15      | Melbourne, Australia   | http://acl2018.org/call-for-papers                  |
 | B | COLING    |              | 2018.03.16     | 2018.05.17   | 2018.08.22      | New Mexico, USA        | http://coling2018.org/first-call-for-papers/        |
 | B | KR        | 2018.05.13   | TBD            | 2018.7.11    | 2018.10.30      | Tempe, Arizona         | http://reasoning.eas.asu.edu/kr2018/                |
