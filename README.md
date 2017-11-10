@@ -18,7 +18,7 @@ Update: 2017.11.11
 | A   | IR       | WWW       |              | pass           |              |                 |                        |                                                     |
 | C   | KD       | PAKDD     |              | 2017.11.21     | 2018.01.28   | 2018.07.08      | Rio, Brazil            | http://prada-research.net/pakdd18/                  |
 | B   | NLP      | NAACL     |              | 2017.12.15     | 2018.02.13   | 2018.06.01      | New Orleans, Louisiana | http://naacl2018.org/call_for_paper.html            |
-| B   | KD       | ICDM      |              | 2018.01.15     | 2018.03.18   |                 |                        | http://www.data-mining-forum.de/important_dates.php |
+| B   | KD       | ICDM      |              | 2018.01.15     | 2018.03.18   | 2018.07.11      | New York, USA          | http://www.data-mining-forum.de/important_dates.php |
 | C   | AI       | IJCNN     |              | 2018.01.15     | 2018.03.15   | 2018.06.03      | Melbourne, Australia   | http://www.ecomp.poli.br/~wcci2018/call-for-papers/ |
 | A   | IR       | SIGIR     | 2018.01.22   | 2018.01.29     | TBD          | 2018.07.08      | Michigan, USA          | https://easychair.org/cfp/sigir2018                 |
 | A   | AI       | IJCAI     | 2018.01.25   | 2018.01.31     | 2018.04.16   | 2018.07.13      | Stockholm, Sweden      | https://www.ijcai-18.org/cfp/                       |
@@ -37,7 +37,6 @@ Update: 2017.11.11
 | C   | IR       | ECIR      |              | TBD            |              |                 |                        |                                                     |
 | A   | AI       | NIPS      |              | TBD            |              |                 |                        | https://nips.cc/Conferences/2018/Dates              |
 | A   | KD       | KDD       |              | TBD            |              |                 |                        | http://www.kdd.org/                                 |
-                                    |
 
 
 ## 详细如下: 
@@ -131,6 +130,8 @@ ICLR/AAAI/IJCAI/WWW/NIPS/ICML/KDD/SIGIR/WSDM/ICDM/CIKM
   - http://www.data-mining-forum.de/important_dates.php
   - Deadline for Submission of Papers: 15.01.2018
   - Notification of acceptance: 18.03.2018
+  - 2018.07.11, New York, USA
+
 
 - EMNLP2018
   - http://www.wikicfp.com/cfp/program?id=883
