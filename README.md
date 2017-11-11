@@ -100,6 +100,15 @@ ICLR/AAAI/IJCAI/WWW/NIPS/ICML/KDD/SIGIR/WSDM/ICDM/CIKM
   - Research tracks acceptance notification : 22 December 2017
   - Research tracks papers final version due : 14 February 2018
 
+- ~~ICDE2018~~
+  - https://icde2018.org/index.php/welcome/important-dates/
+  - Abstract submission due: September 22nd, 2017
+  - Submission due: September 29th October 1st, 2017 
+  - Notification to authors (Accept/Revise/Reject): December 22nd, 2017 
+  - Revisions due: January 15th, 2018 
+  - Notification to authors (Accept/Reject): February 12th, 2018 
+  - Camera-ready copy due: February 26th, 2018
+
 
 ### B类
 
@@ -132,6 +141,10 @@ ICLR/AAAI/IJCAI/WWW/NIPS/ICML/KDD/SIGIR/WSDM/ICDM/CIKM
   - Notification of acceptance: 18.03.2018
   - 2018.07.11, New York, USA
 
+- ~~WSDM2018~~
+  - http://www.wsdm-conference.org/2018/
+  - Papers Abstracts Due: Aug 12, 2017
+  - Papers Due: Sep 15, 2017
 
 - EMNLP2018
   - http://www.wikicfp.com/cfp/program?id=883
