@@ -1,6 +1,8 @@
 # nlp-calendar
 Update: 2017.11.11
 
+ref: https://sites.google.com/site/lyangwww/resources?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F&showPrintDialog=1
+
 ## 简单总结:
 11月: PAKDD <br/>
 12月: NAACL <br/>
