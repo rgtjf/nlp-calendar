@@ -31,7 +31,7 @@ ref:
 | C   | KD       | PAKDD     |              | pass           | 2018.01.28   | 2018.07.08      | Rio, Brazil            | http://prada-research.net/pakdd18/                       |
 | B   | NLP      | NAACL     |              | pass           | 2018.02.13   | 2018.06.01      | New Orleans, Louisiana | http://naacl2018.org/call_for_paper.html                 |
 | B   | KD       | ICDM      |              | 2018.01.15     | 2018.03.18   | 2018.07.11      | New York, USA          | http://www.data-mining-forum.de/important_dates.php      |
-| C   | AI       | IJCNN     |              | 2018.01.15     | 2018.03.15   | 2018.06.03      | Melbourne, Australia   | http://www.ecomp.poli.br/~wcci2018/call-for-papers/      |
+| C   | AI       | IJCNN     |              | 2018.01.15     | 2018.03.15   | 2018.07.08      | Rio de Janeiro, Brazil | http://www.ecomp.poli.br/~wcci2018/call-for-papers/      |
 | A   | IR       | SIGIR     | 2018.01.22   | 2018.01.29     | 2018.04.11   | 2018.07.08      | Michigan, USA          | https://easychair.org/cfp/sigir2018                      |
 | A   | AI       | IJCAI     | 2018.01.25   | 2018.01.31     | 2018.04.16   | 2018.07.13      | Stockholm, Sweden      | https://www.ijcai-18.org/cfp/                            |
 | A   | AI       | ICML      |              | 2018.02.09     | 2018.05.11   |                 |                        | https://2017.icml.cc/Conferences/2018/CallForPapers      |
@@ -43,8 +43,11 @@ ref:
 | B   | IR       | CIKM      |              | 2018.05.15     | 2018.08.06   | 2018.10.22      | Italy                  | http://www.wikicfp.com/cfp/program?id=462&s=CIKM         |
 | A   | AI       | NIPS      |              | 2018.05.18     |              |                 |                        | https://nips.cc/Conferences/2018/Dates                   |
 | B   | KD       | KR        | 2018.05.13   | 2018.05.20     | 2018.07.11   | 2018.10.30      | Tempe, Arizona         | http://reasoning.eas.asu.edu/kr2018/                     |
-| B   | NLP      | EMNLP     |              | 2018.05.22     | 2018.08.06   | 2018.10.31      | 比利时                    | http://www.wikicfp.com/cfp/program?id=883                |
-| C   | AI       | ICONIP    |              | 2018.06.01     | 2018.08.01   |                 | Cambodia               | https://conference.cs.cityu.edu.hk/iconip/               |                                  |
+| B   | NLP      | EMNLP     |              | 2018.05.22     | 2018.08.06   | 2018.10.31      | Brussels, Belgium      | http://www.wikicfp.com/cfp/program?id=883                |
+| B   | NLP      | CONLL     |              | 2018.06.01     | 2018.07.27   | 2018.10.31      | Brussels, Belgium      | http://www.conll.org/cfp-2017                            |
+| C   | AI       | ICONIP    |              | 2018.06.01     | 2018.08.01   |                 | Cambodia               | https://conference.cs.cityu.edu.hk/iconip/               |
+| C   | NLP      | IJCNLP    |              | odd year       |              |                 |                        |                                                          |
+| B   | NLP      | EACL      |              | TBD            |              |                 |                        | http://www.wikicfp.com/cfp/program?id=785                |
 
 ## 详细如下
 
