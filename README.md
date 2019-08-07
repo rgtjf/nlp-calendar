@@ -1,6 +1,6 @@
 # nlp-calendar
 
-Update: 2019.01.01
+Update: 2019.08.07
 
 ref:
 
@@ -12,14 +12,14 @@ ref:
 - 1月: SIGIR(01.28), ICML(01.18)
 - 2月: KDD(02.03), IJCAI(02.25)
 - 3月: ACL(03.04)
-- ~~4月：ECML PKDD, KSEM~~
-- ~~5月：NIPS, EMNLP, CIKM, KR~~
-- ~~6月：CoNLL, ICDM, ICONIP~~
-- ~~8月: WSDM~~
-- ~~9月: AAAI~~
-- ~~10月: WWW~~
-- ~~11月: PAKDD~~
-- ~~12月: NAACL~~
+- 4月：ECML PKDD, KSEM
+- 5月：NIPS, EMNLP, CIKM
+- 6月：CoNLL, ICDM, ICONIP
+- 8月: WSDM(08.12)
+- 9月: AAAI(08.30)
+- 10月: WWW(10.07), ECIR
+- 11月: PAKDD
+- 12月: NAACL, ICLR
 
 ## Ref
 
