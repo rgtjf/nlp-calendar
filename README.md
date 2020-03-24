@@ -1,25 +1,25 @@
 # nlp-calendar
 
-Update: 2019.08.07
+Update: 2020.03.25
 
 ref:
 
 - https://sites.google.com/site/lyangwww/resources?tmpl=%2Fsystem%2Fapp%2Ftemplates%2Fprint%2F
-- [SCIR-HIT](http://mp.weixin.qq.com/s/3N7F9vT-5FodL2JMkua8Xw)
+- https://aideadlin.es/?sub=ML,NLP
 
 ## 简单总结
 
-- 1月: SIGIR(01.28), ICML(01.18)
-- 2月: KDD(02.03), IJCAI(02.25)
-- 3月: ACL(03.04)
-- 4月：ECML PKDD, KSEM
-- 5月：NIPS, EMNLP, CIKM
-- 6月：CoNLL, ICDM, ICONIP
-- 8月: WSDM(08.12)
-- 9月: AAAI(08.30)
-- 10月: WWW(10.07), ECIR
-- 11月: PAKDD
-- 12月: NAACL, ICLR
+- 1月: IJCAI(01.21), SIGIR(01.22)
+- 2月: ICML(02.06), KDD(02.13)
+- 3月: ~~ACL(12.09)~~
+- 4月：COING(04.09)
+- 5月：EMNLP(05.11), NIPS(05.05), CIKM(04.24)
+- 6月：IJCNLP(06.27), ICDM(06.03), ICONIP(TBD), CoNLL(TBD)
+- 8月: WSDM(TBD)
+- 9月: AAAI(TBD)
+- 10月: WWW(TBD), ECIR(TBD)
+- 11月: PAKDD(TBD)
+- 12月: NAACL(TBD), ICLR(TBD)
 
 ## Ref
 
