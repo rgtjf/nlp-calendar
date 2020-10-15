@@ -1,6 +1,6 @@
 # nlp-calendar
 
-Update: 2020.03.25
+Update: 2020.10.15
 
 ref:
 
@@ -11,15 +11,15 @@ ref:
 
 - 1月: IJCAI(01.21), SIGIR(01.22)
 - 2月: ICML(02.06), KDD(02.13)
-- 3月: ~~ACL(12.09)~~
-- 4月：COING(04.09)
-- 5月：EMNLP(05.11), NIPS(05.05), CIKM(04.24)
-- 6月：IJCNLP(06.27), ICDM(06.03), ICONIP(TBD), CoNLL(TBD)
-- 8月: WSDM(TBD)
-- 9月: AAAI(TBD)
-- 10月: WWW(TBD), ECIR(TBD)
-- 11月: PAKDD(TBD)
-- 12月: NAACL(TBD), ICLR(TBD)
+- 3月: ACL(12.09)
+- 4月：CIKM(04.24)
+- 5月：EMNLP(05.11), NIPS(05.05), ICDM(06.03)
+- 6月：COLING(延期到07.02), CoNLL(TBD) 
+- 8月: WSDM(08.16)
+- 9月: AAAI(09.10)
+- 10月: ICLR(10.02), WWW(10.19), ECIR(TBD)
+- 11月: NAACL(11.23)
+- 12月: 
 
 ## Ref
 
